@@ -1,0 +1,21 @@
+.classy {
+    color: black; 
+    background-color: pink;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+.sassy {
+    font-size: 24px;
+}
+
+#bluey {
+    color:blue; 
+    font-size: 36px;
+}
+
+#greeny {
+    background:lightgreen; 
+    font-size:24px; 
+    font-weight:bold;
+}
+
